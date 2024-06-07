@@ -57,7 +57,7 @@ dataSource:
   url: jdbc:postgresql://localhost:5432/learn_grails
   driverClassName: org.postgresql.Driver
   username: postgres
-  password: 'alam'
+  password: 'PASSWORD'
   pooled: true
   jmxExport: true
   dbCreate: update
